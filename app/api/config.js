@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://sinsjhonymkp.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://sinsjhonymkp47.nomoredomainswork.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
